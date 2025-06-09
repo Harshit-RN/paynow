@@ -1,0 +1,6 @@
+module Pods_Pcsglobal {
+  umbrella header "Pods-Pcsglobal-umbrella.h"
+
+  export *
+  module * { export * }
+}

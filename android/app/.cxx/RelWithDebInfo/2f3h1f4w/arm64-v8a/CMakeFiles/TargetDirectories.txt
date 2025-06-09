@@ -1,0 +1,3 @@
+/Users/shubhamagrawal/Desktop/Pcsglobal/android/app/.cxx/RelWithDebInfo/2f3h1f4w/arm64-v8a/CMakeFiles/appmodules.dir
+/Users/shubhamagrawal/Desktop/Pcsglobal/android/app/.cxx/RelWithDebInfo/2f3h1f4w/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/shubhamagrawal/Desktop/Pcsglobal/android/app/.cxx/RelWithDebInfo/2f3h1f4w/arm64-v8a/CMakeFiles/rebuild_cache.dir

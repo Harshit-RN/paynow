@@ -1,0 +1,6 @@
+module Pods_Pcsglobal_PcsglobalTests {
+  umbrella header "Pods-Pcsglobal-PcsglobalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
